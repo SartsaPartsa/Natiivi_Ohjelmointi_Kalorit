@@ -1,6 +1,6 @@
 # Natiivi_Ohjelmointi_Tehtava3
 
-✨ **Android — Calories Calculator (Jetpack Compose)**
+## ✨ **Android — Calories Calculator (Jetpack Compose)**
 
 **Tekijä:** Sara Vehviläinen  
 **Oppilaitos:** Oulun ammattikorkeakoulu  
