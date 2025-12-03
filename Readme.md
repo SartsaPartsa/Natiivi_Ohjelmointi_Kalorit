@@ -72,11 +72,11 @@ Intensiteettikertoimet ovat:
 
 #### Jetpack Compose
 
-*   [https://developer.android.com/jetpack/compose](https://developer.android.com/jetpack/compose) – Virallinen Compose-dokumentaatio
-*   [https://developer.android.com/reference/kotlin/androidx/compose/material3/OutlinedTextField](https://developer.android.com/reference/kotlin/androidx/compose/material3/OutlinedTextField) – Tekstisyötteen käsittely
-*   [https://developer.android.com/reference/kotlin/androidx/compose/material3/RadioButton](https://developer.android.com/reference/kotlin/androidx/compose/material3/RadioButton) – RadioButton-komponentti
-*   [https://developer.android.com/jetpack/compose/components/dropdown-menu](https://developer.android.com/jetpack/compose/components/dropdown-menu) – Pudotusvalikot
-*   [https://developer.android.com/jetpack/compose/state](https://developer.android.com/jetpack/compose/state) – Tilanhallinta (`remember`, `mutableStateOf`)
+*  [https://developer.android.com/jetpack/compose](https://developer.android.com/jetpack/compose) – Virallinen Compose-dokumentaatio
+*   [https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#OutlinedTextField(kotlin.String,kotlin.Function1,androidx.compose.ui.Modifier,kotlin.Boolean,kotlin.Boolean,androidx.compose.ui.text.TextStyle,kotlin.Function0,kotlin.Function0,kotlin.Function0,kotlin.Function0,androidx.compose.foundation.interaction.MutableInteractionSource,androidx.compose.foundation.shape.Shape,androidx.compose.material3.TextFieldColors)](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#OutlinedTextField(kotlin.String,kotlin.Function1,androidx.compose.ui.Modifier,kotlin.Boolean,kotlin.Boolean,androidx.compose.ui.text.TextStyle,kotlin.Function0,kotlin.Function0,kotlin.Function0,kotlin.Function0,androidx.compose.foundation.interaction.MutableInteractionSource,androidx.compose.foundation.shape.Shape,androidx.compose.material3.TextFieldColors)) – Tekstikentät (TextField)
+*   [https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#RadioButton(kotlin.Boolean,kotlin.Function0,androidx.compose.ui.Modifier,kotlin.Boolean,androidx.compose.material3.RadioButtonColors,androidx.compose.foundation.interaction.MutableInteractionSource)](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#RadioButton(kotlin.Boolean,kotlin.Function0,androidx.compose.ui.Modifier,kotlin.Boolean,androidx.compose.material3.RadioButtonColors,androidx.compose.foundation.interaction.MutableInteractionSource)) – RadioButton-komponentti
+*   [https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#DropdownMenu(kotlin.Boolean,kotlin.Function0,androidx.compose.ui.Modifier,androidx.compose.ui.unit.DpOffset,androidx.compose.ui.window.PopupProperties,kotlin.Function1)](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#DropdownMenu(kotlin.Boolean,kotlin.Function0,androidx.compose.ui.Modifier,androidx.compose.ui.unit.DpOffset,androidx.compose.ui.window.PopupProperties,kotlin.Function1)) – Pudotusvalikot (DropdownMenu)
+*   [https://developer.android.com/jetpack/compose/state](https://developer.android.com/jetpack/compose/state) – Tilanhallinta (remember, mutableStateOf)
 
 #### Android-dokumentaatio:
 
