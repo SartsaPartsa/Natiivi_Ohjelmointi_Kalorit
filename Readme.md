@@ -2,9 +2,9 @@
 
 ✨ **Android — Calories Calculator (Jetpack Compose)**
 
-**Tekijä:** Sara Vehviläinen
-**Oppilaitos:** Oulun ammattikorkeakoulu
-**Kurssi:** Mobiiliohjelmointi natiiviteknologioilla IN00CT07-3009
+**Tekijä:** Sara Vehviläinen  
+**Oppilaitos:** Oulun ammattikorkeakoulu  
+**Kurssi:** Mobiiliohjelmointi natiiviteknologioilla IN00CT07-300
 **Lukukausi:** Kevät 2025
 
 ---
@@ -14,6 +14,8 @@
 Tämän tehtävän tavoitteena on toteuttaa Android-sovellus, joka laskee arvioidun kalorinkulutuksen käyttäjän syöttämien tietojen perusteella: paino, sukupuoli ja fyysisen aktiivisuuden taso. Sovellus tehdään Kotliinilla ja hyödyntää Jetpack Compose -käyttöliittymäkirjastoa.
 
 Tehtävä toimii johdantona Jetpack Composen perusrakenteisiin, kuten tilanhallintaan (`State hoisting`), käyttöliittymäkomponenttien (`OutlinedTextField`, `RadioButton`, `DropdownMenu`) luomiseen ja niiden yhdistämiseen toimivaksi kokonaisuudeksi.
+
+---
 
 ### 🧮 Laskentakaavat
 
@@ -28,6 +30,8 @@ Intensiteettikertoimet ovat:
 *   **Moderate:** 1.7
 *   **Hard:** 2.0
 *   **Very hard:** 2.2
+*   
+---
 
 ### ✨ Toiminnallisuus
 
@@ -35,6 +39,8 @@ Intensiteettikertoimet ovat:
 *   **Sukupuolen valinta:** Käyttäjä valitsee sukupuolensa kahdesta `RadioButton`-vaihtoehdosta (Mies/Nainen).
 *   **Aktiivisuustason valinta:** Käyttäjä valitsee aktiivisuustason `DropdownMenu`-pudotusvalikosta.
 *   **Laskenta:** `Laske`-painike käynnistää laskutoimituksen ja päivittää tuloksen näytölle. Koko sovelluksen tilaa hallitaan keskitetysti `CalorieApp`-pääkomponentissa (`State hoisting`).
+*   
+---  
 
 ### 🛠️ Käytetyt teknologiat ja komponentit
 
@@ -49,6 +55,8 @@ Intensiteettikertoimet ovat:
     *   `DropdownMenu`
     *   `Button`, `Column`, `Row`, `Text`, `Icon`
 *   `KeyboardOptions` syötteen rajoittamiseen
+  
+---
 
 ### 📚 Oppimistavoitteet
 
@@ -57,6 +65,8 @@ Intensiteettikertoimet ovat:
 *   `State hoisting` -periaatteen soveltaminen tilanhallinnassa.
 *   Erilaisten syötekomponenttien (`OutlinedTextField`, `RadioButton`, `DropdownMenu`) tehokas käyttö.
 *   Sovelluksen perusrakenteen luominen ja hallinta Android Studiossa.
+
+---
 
 ### 🌐 Oppimisresurssit
 
