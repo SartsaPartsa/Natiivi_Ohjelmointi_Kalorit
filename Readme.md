@@ -1,13 +1,11 @@
-# Natiivi_Ohjelmointi_Tavoitesyke
+# Natiivi_Ohjelmointi_Tehtava3
 
 ✨ **Android — Calories Calculator (Jetpack Compose)**
 
-| | |
-| :--- | :--- |
-| **Tekijä:** | Oma Nimi |
-| **Oppilaitos:** | Oulun ammattikorkeakoulu |
-| **Kurssi:** | Mobiiliohjelmointi natiiviteknologioilla IN00CT07-3009 |
-| **Lukukausi:** | Kevät 2025 |
+**Tekijä:** Sara Vehviläinen
+**Oppilaitos:** Oulun ammattikorkeakoulu
+**Kurssi:** Mobiiliohjelmointi natiiviteknologioilla IN00CT07-3009
+**Lukukausi:** Kevät 2025
 
 ---
 
@@ -78,3 +76,4 @@ Intensiteettikertoimet ovat:
 #### Kotlin:
 
 *   [https://kotlinlang.org/docs/home.html](https://kotlinlang.org/docs/home.html) – Kotlin-kielen virallinen dokumentaatio
+
