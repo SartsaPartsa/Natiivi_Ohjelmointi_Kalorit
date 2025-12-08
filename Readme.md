@@ -5,7 +5,7 @@
 **Tekijä:** Sara Vehviläinen  
 **Oppilaitos:** Oulun ammattikorkeakoulu  
 **Kurssi:** Mobiiliohjelmointi natiiviteknologioilla IN00CT07-3009  
-**Lukukausi:** Kevät 2025
+**Lukukausi:** Syksy 2025
 
 ---
 
